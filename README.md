@@ -1,7 +1,7 @@
 # Barbers-Website 
 I built a front End  website from scratch with 
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code> which I deployed on #NETLIFY.
+<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code> which I deployed on **Netlify**.
 
 
 A personal project I worked on called Oscar's Barbing Salon.
