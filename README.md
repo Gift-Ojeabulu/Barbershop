@@ -10,5 +10,4 @@ The goal of the project was to make locating a barbing salon in the subject area
 
 ![](https://github.com/Gift-Ojeabulu/Barber-s-Website-/blob/main/Untitled_%20Nov%2026%2C%202020%202_11%20AM.gif)
 
-![fullpagescreenshot](https://user-images.githubusercontent.com/45846624/105469307-e2f66300-5c4c-11eb-92bb-00f2cde9c0aa.png)
-
+![](https://github.com/Gift-Ojeabulu/Barber-s-Website-/blob/main/screenshot-oscar-barberswebsite-24.netlify.app-2021.01.22-09_37_00%20(1).png)
