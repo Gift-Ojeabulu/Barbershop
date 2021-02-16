@@ -1,7 +1,7 @@
 # Barber's Web Design
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Web-19%20Design&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Barber's_Web%20Design&fontSize=90)
 
 ## ✅ Goal
 The goal of the project was to make locating a barbing salon in the subject area(Orimerunmu, Ogun state) so easy and to reduce unnnecessary queuing/waiting time of customer's in the barbing salon.
