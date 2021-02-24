@@ -31,8 +31,8 @@ The goal of the project was to make locating a barbing salon in the subject area
 
 
 ## ✅ Features
-1. Tabular Graph.
-2. Line Graph (Time Series Analysis).
+1. Home.
+2. Features.
 3. Map Graph.
 
 
