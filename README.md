@@ -14,13 +14,9 @@ The goal of the project was to make locating a barbing salon in the subject area
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
 
-
-
-
-  ![](https://github.com/Gift-Ojeabulu/Barber-s-Website-/blob/main/Untitled_%20Nov%2026%2C%202020%202_11%20AM.gif)
   
   
-  <img src="https://github.com/Gift-Ojeabulu/Covid-19-tracker/blob/main/React%20App_Covid-19-tracker.gif" width="800" height="500"/>
+  <img src="https://github.com/Gift-Ojeabulu/Barber-s-Website-/blob/main/Untitled_%20Nov%2026%2C%202020%202_11%20AM.gif" width="750" height="400"/>
   
   
 	
