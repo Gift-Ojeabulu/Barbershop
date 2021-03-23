@@ -15,10 +15,10 @@ The goal of the project was to make locating a barbing salon in the subject area
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
 
   
+
   
-  <img src="https://github.com/Gift-Ojeabulu/Barber-s-Website-/blob/main/Untitled_%20Nov%2026%2C%202020%202_11%20AM.gif" width="750" height="400"/>
-  
-  
+  ![](https://github.com/Gift-Ojeabulu/Barber-s-Website-/blob/main/Untitled_%20Nov%2026%2C%202020%202_11%20AM.gif)
+
 	
 
 
