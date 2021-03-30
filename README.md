@@ -52,13 +52,6 @@ The goal of the project was to make locating a barbing salon in the subject area
 
 
 # What I Learned
-<ul>
-    <li> Using react and fetch calls to dynamically update UI.</li>
-    <li> Reinforced knowledge of API integration. </li>
-    <li> Leaflet.js / Chart.js libraries were used to create the interactive map and  
-    responsive line graph components </li>
-    <li> CSS and Material-UI libraries were used to design animations and web layout. </li>
-</ul>
 
 
 
@@ -66,10 +59,3 @@ The goal of the project was to make locating a barbing salon in the subject area
 
 
 
-
-
-
-
-
-
-![](https://github.com/Gift-Ojeabulu/Barber-s-Website-/blob/main/screenshot-oscar-barberswebsite-24.netlify.app-2021.01.22-09_37_00%20(1).png)
