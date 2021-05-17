@@ -11,7 +11,6 @@ The goal of the project was to make locating a barbing salon in the subject area
     * CSS
     * Netlify
     
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
 
   
 
