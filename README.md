@@ -1,4 +1,4 @@
-# Barber's shop 
+# Barber's shop website
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Barber's%20Shop&fontSize=90)
