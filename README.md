@@ -6,11 +6,7 @@
 ## ✅ Goal
 The goal of the project was to make locating a barbing salon in the subject area(Orimerunmu, Ogun state) so easy and to reduce unnnecessary queuing/waiting time of customer's in the barbing salon.
 
-## ✅ Tech stack!
-	* HTML
-    * CSS
-    * Netlify
-    
+
 
   
 
@@ -18,7 +14,11 @@ The goal of the project was to make locating a barbing salon in the subject area
  ![](https://github.com/Gift-Ojeabulu/Barber-s-Website-/blob/main/Untitled_%20Nov%2026%2C%202020%202_11%20AM.gif)
 
 	
-
+## ✅ Tech stack!
+	* HTML
+    * CSS
+    * Netlify
+    
 
 
 
