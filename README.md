@@ -25,13 +25,6 @@ The goal of the project was to make locating a barbing salon in the subject area
 
 
 
-## ✅ MOTIVATION
-
-
-## ✅ What does it do? 
-
-
-## ✅ Features
 
 
 
