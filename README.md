@@ -7,9 +7,9 @@
 The goal of the project was to make locating a barbing salon in the subject area(Orimerunmu, Ogun state) so easy and to reduce unnnecessary queuing/waiting time of customer's in the barbing salon.
 
 
-✅ LINKS
+## ✅ LINKS
  * [WEBSITE](https://oscar-barberswebsite-24.netlify.app/)
- * [PROJECT ON LINKEDLN](https://www.linkedin.com/posts/gift-ojabu_frontenddevelopment-website-webdesign-activity-6739503757454798848-B2vH)
+ * [OVERVIEW ON LINKEDLN](https://www.linkedin.com/posts/gift-ojabu_frontenddevelopment-website-webdesign-activity-6739503757454798848-B2vH)
 
 
 
