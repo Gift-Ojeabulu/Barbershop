@@ -15,7 +15,7 @@ The goal of the project was to make locating a barbing salon in the subject area
 
   
 
-  
+## ✅ VIDEO DEMO  
  ![](https://github.com/Gift-Ojeabulu/Barber-s-Website-/blob/main/Untitled_%20Nov%2026%2C%202020%202_11%20AM.gif)
 
 	
